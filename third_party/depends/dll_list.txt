@@ -1,0 +1,10 @@
+kernel32.dll
+msvcp140d.dll
+ole32.dll
+oleaut32.dll
+Qt5Cored.dll
+Qt5Networkd.dll
+ucrtbased.dll
+user32.dll
+vcruntime140_1d.dll
+vcruntime140d.dll
